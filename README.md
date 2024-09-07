@@ -19,4 +19,4 @@
 5. Fin: Attendez juste
 
 
-[![Video Title](https://transcode-5b1000.8mb.video/f/t-07N-pJ6iNjgE.jpg)](https://github.com/Delta-0mega/speed-up/raw/6ae950153491815820533cf43a7a5ec0234be051/assets/tuto.mp4)
+https://github.com/Delta-0mega/speed-up/raw/6ae950153491815820533cf43a7a5ec0234be051/assets/tuto.mp4
