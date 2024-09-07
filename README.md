@@ -18,4 +18,5 @@
 4. Paramétrer l'output : Entrez le nom de l'output sans l'extension et spécifiez si vous voulez garder l'audio uniquement
 5. Fin: Attendez juste
 
-[video](https://github.com/Delta-0mega/speed-up/raw/6ae950153491815820533cf43a7a5ec0234be051/assets/tuto.mp4)
+
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
