@@ -19,4 +19,7 @@
 5. Fin: Attendez juste
 
 
-https://github.com/Delta-0mega/speed-up/raw/6ae950153491815820533cf43a7a5ec0234be051/assets/tuto.mp4
+
+https://github.com/user-attachments/assets/2baef46d-4fa0-4bb3-9ca6-22249d7200b2
+
+
