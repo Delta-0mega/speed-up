@@ -3,7 +3,7 @@ import moviepy.video.fx.all as vfx
 import os
 import fade
 from colorama import Fore
-os.system("cls")
+os.system('cls' if os.name == 'nt' else 'clear')
 sp = "output\speedup"
 def create_output_dirs():
     os.makedirs(os.path.join(sp, "mp3"), exist_ok=True)
