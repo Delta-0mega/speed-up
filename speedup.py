@@ -3,7 +3,7 @@ import moviepy.video.fx.all as vfx
 import os
 import fade
 from colorama import Fore
-
+os.system("cls")
 sp = "output\speedup"
 def create_output_dirs():
     os.makedirs(os.path.join(sp, "mp3"), exist_ok=True)
@@ -29,7 +29,7 @@ def process_audio(input_path, output_name):
     while True:
         speedup_audio.write_audiofile(audio_output_path)
         print(f"Audio accéléré sauvegardé sous : '{audio_output_path}'")
-    return audio_output_path
+        return audio_output_path
 def main():
     create_output_dirs()
     banner = """
