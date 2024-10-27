@@ -46,7 +46,7 @@ def main():
     
 """
     print(fade.fire(banner))
-    input_path = input(Fore.YELLOW + "Entrez le chemin du fichier (vidéo ou audio) : ").strip('"')  # Enlève les guillemets si présents
+    input_path = input(Fore.YELLOW + "Entrez le chemin du fichier (vidéo ou audio) : ").strip('"')
     output_name = input(Fore.YELLOW + "Entrez le nom de sortie (sans extension) : ")
     file_extension = os.path.splitext(input_path)[1].lower()
     if file_extension in ['.mp4', '.mov', '.avi', '.mkv']:
